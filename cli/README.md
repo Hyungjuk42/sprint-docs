@@ -96,7 +96,7 @@ COMMAND GROUPS
   projects            Projects, metadata, updates and restoration.
   retrospectives      Browse subcommands.
   scrums              Browse subcommands.
-  search              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
+  search              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
   settings            Browse subcommands.
   signups             Browse subcommands.
   sprints             Sprint records and iteration.

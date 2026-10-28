@@ -23,7 +23,7 @@ DESCRIPTION
   Choose a subcommand, then inspect its exact --help before execution.
 
 SUBCOMMANDS
-  issues              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
+  issues              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
 
 EXAMPLES
   sprint my issues --help

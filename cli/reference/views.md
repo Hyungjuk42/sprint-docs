@@ -26,10 +26,10 @@ DESCRIPTION
   Choose a subcommand, then inspect its exact --help before execution.
 
 SUBCOMMANDS
-  delete              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
-  get                 Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
-  list                Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
-  save                Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
+  delete              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
+  get                 Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
+  list                Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
+  save                Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
 
 EXAMPLES
   sprint views get --help

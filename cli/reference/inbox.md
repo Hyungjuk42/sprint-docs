@@ -24,8 +24,8 @@ DESCRIPTION
   Choose a subcommand, then inspect its exact --help before execution.
 
 SUBCOMMANDS
-  list                Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
-  update              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription 
+  list                Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
+  update              Search filters current access before counts and pagination. Views enforce personal ownership or linked native team membership. Subscription
 
 EXAMPLES
   sprint inbox list --help
